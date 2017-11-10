@@ -13,9 +13,9 @@ SYNTAX-1
 =========
 
 <CHDollar>
-<PACK> MyP
+<PACK> namespace
 <%
- <CLASS> Programs
+ <CLASS> classname
  {
  public FLOAT CHDollar-MAIN()
  {
@@ -30,13 +30,14 @@ SYNTAX-1
 ========
 
 <CHSAUCER>
-<PACK> p
+<PACK> namespace
 {
- <CLASS> MyArray
+ <CLASS> classname
  {
  public void main()
  {
-HTML.displayhtml("animate.html");
+ 
+<! LOGIC  of CH$ Program !>
 }
 }
 }
