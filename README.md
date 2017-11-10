@@ -10,38 +10,38 @@ ABOUT CHDOLLAR(CH$): CHDollar Programming Language is a modern Programming Langu
 <U><B>SYNTAX-1</b></u>
  <BR>
 
-<CHDollar>
-<PACK> namespace
-<%
- <CLASS> classname
- {
- public FLOAT CHDollar-MAIN()
- {
+<CHDollar> <BR>  
+<PACK> namespace <BR> 
+<%  <BR>
+ <CLASS> classname <BR>
+ { <BR>
+ public FLOAT CHDollar-MAIN() <BR>
+ { <BR>
 
  
-<! LOGIC  of CH$ Program !>
+<! LOGIC  of CH$ Program !> <BR>
 
 
-%>
-?>
+%> <BR>
+?> <BR>
 <BR>
  
 <U><B>SYNTAX-1</b></u>
 <BR>
 
-<CHSAUCER>
-<PACK> namespace
-{
- <CLASS> classname
- {
- public void main()
- {
+<CHSAUCER> <BR>
+<PACK> namespace <BR>
+{ <BR>
+ <CLASS> classname <BR>
+ { <BR>
+ public void main() <BR>
+ { <BR>
  
-<! LOGIC  of CH$ Program !>
-}
-}
-}
-</CHSAUCER>
+<! LOGIC  of CH$ Program !> <BR>
+} <BR>
+} <BR>
+} <BR>
+</CHSAUCER> <BR>
   
 <BR> <U><B>CHDollar ADvantages over JAVA and other Programming Languages </b></u>
 <BR><BR><BR>
