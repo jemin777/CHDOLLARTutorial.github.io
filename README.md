@@ -74,7 +74,7 @@ AA) CHDollar is an interactive Technology.<BR>
 BB) CHDOLLAR is used as a remote webapplication<BR>
 
 
-<BR>  Note:  Kindly Click here  CHDollar(CH$) Tutorial  url  :<a href="https://jemin777.github.io/CHDOLLAR-CH-Tutorial.github.io//HOME">
+<BR>  Note:  Kindly Click here  CHDollar(CH$) Tutorial  url  :<a href="https://jemin777.github.io/CHDOLLARTutorial.github.io//HOME">
  CHDOLLAR(CH$)Tutorial
  </a>
  
