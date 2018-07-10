@@ -80,3 +80,14 @@ BB) CHDOLLAR is used as a remote webapplication<BR>
  
  for  more  details...
  <BR>
+ 
+ 
+ 
+ Note:
+ =====
+
+To Configure CHDollar Programming language servers user should...
+
+Kindly download https://github.com/jemin777/WilmixTutorial/blob/master/chdollarlib.rar
+
+and replace/copy CHDOllartools.dll and chdollartools.dll at chdollar/src/lib directory and chdollar/src directory..
