@@ -1,0 +1,60 @@
+JWP  Microservices with  J$AI
+==============================
+
+JWP  Microservices   invented  by wilmix jemin j using  solomon ring (ie, DOTWEB3.0)  can  be  used  with   java
+
+,jmf,sjf,chdollar,jstar,jwp....
+
+We  already  know  the  term   so  each   JMF ,  SJF ,chdollar  ,jstar,jwp  will act  like  a  microservice (grains)
+
+to  be  used  with  web1.0  webservice..
+
+
+
+Explanation:
+=============
+
+A  request   is  passed  from  browser , so  when  compiled  through  jwp  server
+
+will    create  a   .wpk  files  in J$ wallet.
+
+so   JMF ,  SJF ,chdollar  ,jstar,jwp  will act  like  a  microservice (grains)
+
+to  be  used  with  web1.0  webservice..
+
+so   a    data  will    flow   between   JMF  ,SJF   and  act  like  a  WiZard  form  controller   eg)  as   we  study  in java spring.
+
+and  finally   display  the  output    in    web1.0   Rest/soap  webservice...   in J$wallet.
+
+So  what  is  the   architecture  of  JWP  Microservice  with  a  neat  diagram?
+
+
+What  is    the   correct   syntax   for    DOTWEBAI?
+
+
+<filename>.DOTWEBJAI
+=====================
+
+<DOTWEBJAI>
+@DOTWEB3.0Remotewebapplication(Assistant="DOTWEB3.0JEMO");
+@DOTWEB3.0Remotewebapplicationpaperdata($id);
+@DOTWEB3.0RemotewebapplicationSearchEngine($eid,$p,$data);
+@DOTWEB3.0Remotewebapplication(Type="voice/paper/png/jpeg/notepad/paper", computername="?");
+@DOTWEB3.0WEBAPPS
+(Type="JITZMobiles,J$wallet",  display="true",
+map="countryname", datatype="English",
+snapshot="true",
+pid="?",
+theme="?");
+
+@Dotweb3.0Remoteweapplication("webservice="restwebservice/soapwebservice", language="web1.0", Flanguage="oakjava7",
+
+file="NLP,Scrollframework,WHTML, okajava7,etc", fields="same",
+
+mappingResource=Automatic , filenameList={?},
+microservice="true",
+
+</DOTWEB3.0JAI>
+
+
+
