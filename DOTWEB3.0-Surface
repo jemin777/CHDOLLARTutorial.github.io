@@ -96,3 +96,37 @@ ArrayList  arf= WDBALIB.WDBAQUERY(s1, t);
 }
 
 }
+
+
+
+So  surface technology  is   created   using  solomon ring; but  solomon ring  is  created  using  DOTWEB3.0
+
+technology.
+
+<filename.surface>
+==================
+
+<DOTWEB3.0>
+
+<DOTWEB3.0surface> //indicates  .web3.0  surface
+<DOTWEB3.0panel> //.web3.0panel
+
+@Agent("web3.0remo")
+
+
+<filename="abc.web3" theme="glassview/mac view", Dragdrop="true/false", pid="#0001",
+username="?",  gitusername="?" > //username  means  your  username 
+
+<output->web3.0  printtext="green",  screen="black" /> // print  the  text  in  green  and  set  output  screen  as  balck
+
+<PRINT : web3.0Surface: output>// this  statement  will  print  the  output  in  DOTWEB3.0 panel at  .web3.0 surface
+
+</output>
+
+</DOTWEB3.0panel>
+</DOTWEB3.0surface>
+
+</DOTWEB3.0>
+
+
+
