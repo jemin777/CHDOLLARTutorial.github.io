@@ -39,3 +39,34 @@ country="?", place="?",city="?",state="?", j$cloudusername="?", checkerbird="act
 Checkerbird  is   an AI  bird  to  scan  this  evils  and to prevent  or  protect our  planet..
 
 so  this checker bird  is created  using  solomon ring...
+
+
+DOTWEB3.0 Module  -1  program  syntax  used  for  DOTWEB3.0  security
+========================================================================
+
+
+<WEB3.0>
+
+<USE> packages;
+
+
+<IMPORT>
+<PACK> <packagename>
+{
+    <CLASS> <classname>
+    {
+          public void main()
+        {
+		
+//this  is  used  for  dotweb3.0  security
+<PRINTLN>("dotweb3.0-security:<.web3securityfilename>:J$cloud:gitusername:giturl");
+
+		
+}
+
+
+}
+
+}
+
+
