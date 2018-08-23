@@ -28,7 +28,7 @@ DOTWEB3.0Security Syntax
 <ITSecurity>
 <BusinessSecurity>
 //planet name,giturl,etc  details  should  be mentioned...
-<planet name="?", giturl ="?", gitusername="?",
+<planet name="?", giturl ="?", gitusername="?",checkerbirdid="?"
 
 country="?", place="?",city="?",state="?", j$cloudusername="?", checkerbird="activate/deactivate", type="?">
 
@@ -39,6 +39,8 @@ country="?", place="?",city="?",state="?", j$cloudusername="?", checkerbird="act
 Checkerbird  is   an AI  bird  to  scan  this  evils  and to prevent  or  protect our  planet..
 
 so  this checker bird  is created  using  solomon ring...
+note:  checkerbird  id  will be  between  1  to 1000000000  only.
+ie)  1000000000  checkedbird  will be  available.
 
 
 DOTWEB3.0 Module  -1  program  syntax  used  for  DOTWEB3.0  security
